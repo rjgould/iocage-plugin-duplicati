@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #vars
-dlurl="https://updates.duplicati.com/beta/duplicati-2.0.6.3_beta_2021-06-17.zip"
+dlurl="https://github.com/duplicati/duplicati/releases/download/v2.0.8.1-2.0.8.1_beta_2024-05-07/duplicati-2.0.8.1_beta_2024-05-07.zip"
 duplicati_dir="/usr/local/share/duplicati"
 duplicati_conf_dir="/config"
 
